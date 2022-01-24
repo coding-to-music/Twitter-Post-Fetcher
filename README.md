@@ -1,6 +1,14 @@
 Twitter-Post-Fetcher
 ====================
 
+https://github.com/coding-to-music/Twitter-Post-Fetcher
+
+https://github.com/jasonmayes/Twitter-Post-Fetcher
+
+https://codepen.io/jasonmayes/pen/Ioype
+
+http://jasonmayes.com/projects/twitterApi/#sthash.CFrp2v5a.dpbs
+
 Allows you to get your tweets displaying on your website using JavaScript, without using new Twitter 1.1 API 
 
 Further information and project page: http://jasonmayes.com/projects/twitterApi/
